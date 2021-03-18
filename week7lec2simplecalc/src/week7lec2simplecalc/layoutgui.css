@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+Pane {
+    -fx-background-color: linear-gradient(to bottom right, RGB(255,103,135),RGB(254,142,123),RGB(255,182,140),RGB(85,203,211));
+}
+Button {
+    -fx-color: RGB(199,218,199);
+}
