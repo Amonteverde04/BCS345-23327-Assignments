@@ -1,0 +1,15 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+Pane {
+    -fx-background-color: linear-gradient(to bottom, RGB(64,64,64),RGB(40,40,40));
+}
+
+canvas {
+    -fx-background-color: white;
+}
